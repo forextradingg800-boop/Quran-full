@@ -1,0 +1,6 @@
+{
+  "name": "Al-Quran Al-Kareem — Urdu Translation & Tafseer",
+  "description": "Read, listen, and study the Holy Quran with authentic Urdu translation, Tafseer commentary, famous Qari recitations, verse search, and full offline access.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
